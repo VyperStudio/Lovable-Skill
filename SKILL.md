@@ -1,5 +1,5 @@
 ---
-name: Vyper-Studio-Standards-
+name: Vyper-Studio-Standards
 description: Use when creating any web project, page, section, or component for Vyper Studio clients. Applies design standards, technical stack, animation rules, and branding requirements automatically.
 ---
 
